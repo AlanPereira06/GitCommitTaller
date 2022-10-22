@@ -8,4 +8,11 @@
 - Octaba Linea
 - Novena Linea
 - Decima Linea
+<<<<<<< HEAD
 - DecimaPrimera Linea
+=======
+- DecimaPrimera Linea
+- DecimaSegunda Linea
+- DecimaTercera Linea
+- DecimaCuarta Linea
+>>>>>>> MyPrivateSpace
